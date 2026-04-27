@@ -1,6 +1,7 @@
-## Hi there 👋
 <div align="center">
+## Hi there 👋
 [![nightmare's GitHub stats](https://github-readme-stats.vercel.app/api?username=nightmare462)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nightmare462&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <!--
